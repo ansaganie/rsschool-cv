@@ -11,12 +11,14 @@
 
 ## About myself
 
-    My name Ansagan. I have been working in Geology for 6 years, until I became a Frontend Developer. 
-    There was a lot reasons for IT's choice to Geology, most important one is "do what a actually love to do". For me, coding is more than just doing work or completing tasks.
-    In 2019 started to get interested in Coding inspired by TV series "Silicon Valley", and started to learn programming seriously in mid 2020, thanks to COVID lockdowns.
+My name Ansagan. I have been working in Geology for 6 years, until I became a Frontend Developer. 
 
-    Successfully accomplished *"Profession: React Developer"* course held by [Htmlacademy.ru](https://htmlacademy.ru). And now working as a Junior Frontend developer in [Aviata.kz](https://aviata.kz)
+There was a lot reasons for IT's choice to Geology, most important one is "do what a actually love to do". For me, coding is more than just doing work or completing tasks.
 
-    I'm working hard to become a strong specialist in web application development using modern frameworks and techniques, to become guru in Javascript and feel comfortable with React, Vue, Angular and all eco-system libraries.
+In 2019 started to get interested in Coding inspired by TV series "Silicon Valley", and started to learn programming seriously in mid 2020, thanks to COVID lockdowns.
 
-    Always follow rules for to keep code clean and robust. I understand and use programming principles like DRY, KISS and SOLID, follow recommendations from Clean Code of Robert Martin. If it is possible, I divide code into small peaces to make it understandable and easy to operate and write more declarative codes.
+Successfully accomplished *"Profession: React Developer"* course held by [Htmlacademy.ru](https://htmlacademy.ru). And now working as a Junior Frontend developer in [Aviata.kz](https://aviata.kz)
+
+I'm working hard to become a strong specialist in web application development using modern frameworks and techniques, to become guru in Javascript and feel comfortable with React, Vue, Angular and all eco-system libraries.
+
+Always follow rules to keep code clean and robust. Understand and use programming principles like DRY, KISS and SOLID, follow recommendations from Clean Code of Robert Martin. If it is possible, I divide code into small peaces to make it understandable and easy to operate, write more declarative codes.
