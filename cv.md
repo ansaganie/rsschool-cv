@@ -17,4 +17,6 @@
 
     Successfully accomplished *"Profession: React Developer"* course held by [Htmlacademy.ru](https://htmlacademy.ru). And now working as a Junior Frontend developer in [Aviata.kz](https://aviata.kz)
 
-    I'm working hard to become a strong specialist in web application development using modern frameworks and techniques, to become guru in Javascript and feel comfortable with React, Vue, Angular and all eco-system libraries. 
+    I'm working hard to become a strong specialist in web application development using modern frameworks and techniques, to become guru in Javascript and feel comfortable with React, Vue, Angular and all eco-system libraries.
+
+    Always follow rules for to keep code clean and robust. I understand and use programming principles like DRY, KISS and SOLID, follow recommendations from Clean Code of Robert Martin. If it is possible, I divide code into small peaces to make it understandable and easy to operate and write more declarative codes.
