@@ -22,3 +22,21 @@ Successfully accomplished *"Profession: React Developer"* course held by [Htmlac
 I'm working hard to become a strong specialist in web application development using modern frameworks and techniques, to become guru in Javascript and feel comfortable with React, Vue, Angular and all eco-system libraries.
 
 Always follow rules to keep code clean and robust. Understand and use programming principles like DRY, KISS and SOLID, follow recommendations from Clean Code of Robert Martin. If it is possible, I divide code into small peaces to make it understandable and easy to operate, write more declarative codes.
+
+## Work experience
+
+* **Aviata.kz** - Almaty, Kazakhstan
+    * February 2022 - now: **Frontend developer**
+* **Karachaganak Petroleum Operating B.V.** - Aksay, Kazakhstan
+    * October 2018 - January 2022: **Geologist**
+* **Schlumberger** - Atyrau, Kazakhstan
+    * May 2018 - September 2018: Mud Logging Engineer
+* **Schlumberger** - Tengiz, Kazakhstan
+    * October 2015 - May 2018: Mud Logging Geologist
+
+## Education
+
+* **Satpaev University** - Almaty, Kazakhstan
+    * Oil And Gas Engineering - **Bachelor's degree**
+* **Semey Geological Propecting College** - Semey, Kazakhstan
+    * Geophysical methods of searching and exploration of useful minerals - **Associate's degree**
