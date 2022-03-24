@@ -57,10 +57,10 @@ Always follow rules to keep code clean and robust. Understand and use programmin
     * Geophysical methods of searching and exploration of useful minerals - **Associate's degree**
 
 ## Courses:
-1. **JavaScript. Professional Development of Web Interfaces** - HtmlAcademy.ru - Vanilla JS. Event Handling. Fetch API. DOM Manipulation. Leaflet
-2. **JavaScript. The architecture of Front-end Applications** - HtmlAcademy.ru - OOP, Prototype-based Programming, ES6, MVP, History API, Location API.
+1. [**JavaScript. Professional Development of Web Interfaces**](https://assets.htmlacademy.ru/certificates/intensive/205/1704573.pdf?1626350448) - HtmlAcademy.ru - Vanilla JS. Event Handling. Fetch API. DOM Manipulation. Leaflet
+2. [**JavaScript. The architecture of Front-end Applications**](https://assets.htmlacademy.ru/certificates/intensive/211/1704573.pdf?1631417950) - HtmlAcademy.ru - OOP, Prototype-based Programming, ES6, MVP, History API, Location API.
 3. **JavaScript. Vue.js** - Kolesa Group - Vue.js, Vue Router. Vuex.
-4. **JavaScript. React. Development of Complex Front-end Applications** - HtmlAcademy.ru - React. React Router. Hooks. Redux. Thunk. React Optimization. RTK. Axios. Formik. Jest. React Testing Lib.
-5. **Java. JavaRush 32 level** - Syntax, Core, Collections;
+4. [**JavaScript. React. Development of Complex Front-end Applications**](https://assets.htmlacademy.ru/certificates/intensive/217/1704573.pdf?1637434380) - HtmlAcademy.ru - React. React Router. Hooks. Redux. Thunk. React Optimization. RTK. Axios. Formik. Jest. React Testing Lib.
+5. [**Java. JavaRush 32 level**](https://javarush.ru/users/2015167) - Syntax, Core, Collections;
 6. **Java. Web development** - EPAM Systems - Java EE, Servlets, JSP, Rest API, JDBC;
-7. **Java. Web development** - Udacity - Spring MVC, Spring Boot, Spring Data, JPA,  Hibernates, JUnit;
+7. [**Java. Web development**](https://confirm.udacity.com/EWLYPQGY) - Udacity - Spring MVC, Spring Boot, Spring Data, JPA,  Hibernates, JUnit;
