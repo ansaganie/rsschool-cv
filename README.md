@@ -1,2 +1,3 @@
-# rsschool-cv
-CV#1. Markdown &amp; Git
+# Ansagan's CV
+
+<https://ansaganie.github.io/rsschool-cv>
