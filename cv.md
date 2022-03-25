@@ -20,13 +20,15 @@ In 2019 started to get interested in Coding inspired by TV series "Silicon Valle
 
 Successfully accomplished *"Profession: React Developer"* course held by [Htmlacademy.ru](https://htmlacademy.ru). And now working as a Junior Frontend developer in [Aviata.kz](https://aviata.kz)
 
+Completed several SPA projects using React and Vue.js. Have experience in configuring frontend app using webpack from scratch, composing node.js app and running it in development or production mode inside docker container, writing unit and integrated tests of React, Vue.js components, converting monolith to modern SPA.
+
 I'm working hard to become a strong specialist in web application development using modern frameworks and techniques, to become guru in Javascript and feel comfortable with React, Vue, Angular and all eco-system libraries.
 
 Always follow rules to keep code clean and robust. Understand and use programming principles like DRY, KISS and SOLID, follow recommendations from Clean Code of Robert Martin. If it is possible, I divide code into small peaces to make it understandable and easy to operate, write more declarative codes.
 
 ## Skills
 
-### Languages
+### Programming languages
 
 1. **Javascript** *(main language)*
 2. **Typescript** *(main language)*
@@ -57,7 +59,7 @@ Always follow rules to keep code clean and robust. Understand and use programmin
 
 * **Satpaev University** - Almaty, Kazakhstan
   * Oil And Gas Engineering - **Bachelor's degree**
-* **Semey Geological Propecting College** - Semey, Kazakhstan
+* **Semey Geological Prospecting College** - Semey, Kazakhstan
   * Geophysical methods of searching and exploration of useful minerals - **Associate's degree**
 
 ## Courses
@@ -69,3 +71,11 @@ Always follow rules to keep code clean and robust. Understand and use programmin
 5. [**Java. JavaRush 32 level**](https://javarush.ru/users/2015167) - Syntax, Core, Collections;
 6. **Java. Web development** - EPAM Systems - Java EE, Servlets, JSP, Rest API, JDBC;
 7. [**Java. Web development**](https://confirm.udacity.com/EWLYPQGY) - Udacity - Spring MVC, Spring Boot, Spring Data, JPA,  Hibernates, JUnit;
+
+## Languages
+
+Kazakh — Native
+
+English — B1 — Intermediate
+
+Russian — C1 — Advanced
